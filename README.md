@@ -1,1 +1,1 @@
-# instagram-log-converter
+# instagram-log-parser
